@@ -9,17 +9,15 @@ need of the Makeup, Skin care & various
 products.
 
 Features:
-  -The team strength was of 5 members.
-  -We built this project in 7 days using HTML,CSS
-  & JavaScript.
 
-Tech-stacks - HTML CSS JavaScript
+User can go through different pages and add favorite items to the wish list.
+Products can be added to the cart and checkout page is also available.
+﻿Areas of responsibility:
 
-Areas Of Responsibility:
-  -Role: Team member.
-  -My task was to build the my cart and payment page and add the functionality to it.
-  -I also contributed in page-linking and modifications.
+Built few product pages and their functionalities .
+Added filter functionality, page linking.
+Modified the landing page.
+Tech-stacks - HTML, CSS, JavaScript
 
-This is a team project collaboratively done by
-5 members in 6 days.
+A 6-day collaborative project with 5 members.
 
